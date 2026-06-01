@@ -1,0 +1,26 @@
+[
+  {
+    "title": "STM32 Edge AI Smart Camera",
+    "category": "Embedded",
+    "skills": ["C++", "TinyML", "STM32", "Computer Vision"],
+    "description": "Deploying lightweight convolutional neural networks on STM32 microcontrollers for real-time edge object detection and gesture recognition."
+  },
+  {
+    "title": "Distributed Avionics Telemetry System",
+    "category": "IT",
+    "skills": ["Go", "Kubernetes", "WebSockets", "AWS"],
+    "description": "Highly-scalable real-time telemetry processing backend built on Go microservices, ingesting thousands of sensor streams concurrently with sub-millisecond latency."
+  },
+  {
+    "title": "IoT Smart Grid Cryptographic Node",
+    "category": "Embedded",
+    "skills": ["C", "Mesh Networking", "TrustZone", "Low Power"],
+    "description": "Low-power secure mesh-networking sensor node with hardware-accelerated ARM TrustZone cryptography auditing real-time energy grid values."
+  },
+  {
+    "title": "WebGL Real-time Telemetry Dashboard",
+    "category": "IT",
+    "skills": ["React", "WebGL", "Three.js", "UI/UX Design"],
+    "description": "High-performance React dashboard utilizing WebGL for rendering interactive 3D models and real-time streaming avionics visualizers."
+  }
+]
