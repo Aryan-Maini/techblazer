@@ -1,44 +1,233 @@
 [
   {
-    "name": "Sarah Jenkins",
+    "name": "Aryan Maini",
     "industry": "IT",
-    "skills": ["React", "Go", "Kubernetes", "AWS", "Docker", "System Design"],
-    "description": "Specializing in distributed systems and cloud architecture. Passionate about mentoring junior developers and building scalable backend infrastructures.",
-    "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuAhrShy2wi1frw6Q9RW81zCM7ReJRCaT_CSpuLhoXbifCuY4K3Ttzw-LlWe9OUHff5pD1TD77NAK1OqxqGIjP0wX0uF0JaJFVsGnVCpEKXV1b0TkLKfQuD9MMNK4pXcGTDTekIwCH46jmEcwepJv9QBD3InNtBblwJ_IO9m0wysIpr0f4AdaDDWyVKXILg-4f0Cc8e1yhlqvN2EO1PikOSJtcxVVsZZU1xXl3O6EbmjVpxbXgKpLGdHKivORaLZ4dVF2a4EARrf5VM"
+    "skills": ["Python", "ML"],
+    "description": "Specializing in Vector Databases",
+    "profilePicture": "Aryan_Maini.png"
   },
   {
-    "name": "Marcus Thorne",
-    "industry": "Embedded",
-    "skills": ["C", "C++", "STM32", "RTOS", "FreeRTOS", "Firmware"],
-    "description": "Specializing in low-power microcontroller programming and real-time operating systems. 10+ years designing robust industrial and automotive firmware.",
-    "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuDeFqvOY_QqeaJzokVQjc9xX1XuGIl_jSZtY2GqDcxUm4i1Fkt-PIAaGDNTKEPZbnnhEgE0JBu2yCaUmugriQ2vKenrvqR-DG2rJjRYdiUAgvOL5f-OPAzfP5iKXTL7PqWL-W0-NgqHMPWWwEjfl5rejMTDsuvYEFsa3IPupnaRN4aapDPtfJB9za27c0msiA1lkcVi3s0GbhZ0bLCuyhd3ai097aBlg74VxWUauPcy0-kWev59I9-dGZ2fCoUOpEJoJjwbUz7sXTI"
-  },
-  {
-    "name": "Elena Rodriguez",
+    "name": "Amaan Ur Rahman",
     "industry": "IT",
-    "skills": ["Figma", "Design Ops", "Accessibility", "UX Research", "UI Design"],
-    "description": "Crafting meaningful digital experiences through human-centered design. Expert in design systems and accessibility for global enterprise applications.",
-    "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuAy1cobQZkyWOat8ze1PRKD9MN74MjJXbfqtyLq40Ha-A2iWdkIw24jvrjUPHsFHGjrOV2CrHOpQT54gseWkwGzORkqniakcEMieTbzrNCLCHlODnQoUEGsfE0nvNE1AB2KEmbWCPrGY7geMn6UZDPYXdZ37jOSTQfi_w_WPq5KyzbJMifaPnAT0gsO8zb3nj6XJ-YcZs5oqK4f0s3ZkaTxvsnNfqcjfoBESQ_cyB0gYoJQVbY4gRgrQZS2Go19eIji-KAuUUtUjXM"
+    "skills": ["C++", "Python"],
+    "description": "2nd year in B.Tech in Mathematics",
+    "profilePicture": "Amaan Ur Rahman.jpeg"
   },
   {
-    "name": "David Chen",
+    "name": "Pranav Arora",
     "industry": "Embedded",
-    "skills": ["C++", "TinyML", "IoT", "Edge AI", "Microcontrollers", "Sensors"],
-    "description": "Specializing in Edge AI, TinyML, and smart sensor integration. Developing lightweight machine learning models for resource-constrained hardware.",
-    "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuB5UVXl-k8_1okSVFGxRXrLmxFz11JQe9dgdxHWwggeskszyUTnVECWFyHJjNtyn3stvDeCYClLREJ_7lIRLuzWwRRwIxM0Ed0UQcd8mbRtoOni0Urp93lYvh4w_u8KXWOVL52qmHUJY3NlS1F4koGwuia-_VgYhfM2w2_ilpGD2crmLSqWxu1jyfdk1MV7HhceQ04fO6NpcZL30WWlZ5YuubJYcEyacpMlheRes-uf8V_hnkxsJ9PVzFqoGZShxg8903fOOp8L8QQ"
+    "skills": ["ChatGPT", "Claude", "SQL", "Python", "C", "C++", "STMCubeMX", "STMCubeIDE"],
+    "description": "Amazing guy",
+    "profilePicture": "Pranav Arora.jpeg"
   },
   {
-    "name": "Sophia Al-Fayed",
+    "name": "Aaditya Singh",
+    "industry": "Embedded",
+    "skills": ["STMCubeIDE", "STMCubeMX", "C++", "Python"],
+    "description": "3rd year completed in B.Tech",
+    "profilePicture": "Aditya_Singh.png"
+  },
+  {
+    "name": "Pramodh Srinivasan",
+    "industry": "Embedded",
+    "skills": ["STMCubeMX", "STMCubeIDE", "C", "C++", "L"],
+    "description": "1st year completed in B.Tech",
+    "profilePicture": "Pramodh Srinivasan.jpeg"
+  },
+  {
+    "name": "Isha Pawar",
+    "industry": "Embedded",
+    "skills": ["STMCubeIDE", "STMCubeMX", "C", "soft skills", "communication", "presentation"],
+    "description": "4th year completed Electronics B.Tech",
+    "profilePicture": "Isha Pawar.jpg"
+  },
+  {
+    "name": "Yashasvi Vats",
+    "industry": "Embedded",
+    "skills": ["ROS2", "Gazebo", "RViz"],
+    "description": "1st year completed in B.Tech",
+    "profilePicture": "Yashasvi Vats.jpeg"
+  },
+  {
+    "name": "Lakshveer Singh",
+    "industry": "Embedded",
+    "skills": ["STMCubeIDE", "STMCubeMX", "C", "C++", "IMU Calib"],
+    "description": "1st year completed in B.Tech EE-VSLI",
+    "profilePicture": "Lakshveer Singh.jpeg"
+  },
+  {
+    "name": "Saiyid Mohammad Hussain Rizvi",
     "industry": "IT",
-    "skills": ["Python", "Django", "PostgreSQL", "REST APIs", "SaaS", "Cloud Hosting"],
-    "description": "Building secure, scalable, and high-performance cloud backends and SaaS platforms with modern databases.",
-    "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuD77ygZEo70zBLiTdahWLDdwpk8pVL7aixS2hBTOh0NQq8R-_zdPXg0cuJmWQtxodhLdPaDkD1YyLqS4HGf3CN_5bcodUCGWpjJnTduFKPIgwuuZiWVa6mvezFzoC84Fj0T38uBnoIeuN1-GidPNW4B0qHpWOrw3ebOAbqZsuuEOQmYrWP6uMZzj-xJqe1IpH7FZWeW9EcdtH3E7AxlafQ9zNtowi8ea22VofXaq-CpbcYzgMl4PTy1GJ4TVfL1HuTAIj60VNg6Lm0"
+    "skills": ["STMCubeIDE", "STMCubeMX", "C++", "Python", "Web Development"],
+    "description": "1st year completed in B.Tech CS",
+    "profilePicture": "Saiyid Mohammad HussAain Rizvi.jpeg"
   },
   {
-    "name": "James Wilson",
+    "name": "Pranav Singh",
     "industry": "Embedded",
-    "skills": ["C", "Hardware Security", "Cryptography", "Secure Boot", "TrustZone"],
-    "description": "Defending critical IoT infrastructure and embedded systems. Expert in hardware-level security, secure bootloader design, and penetration testing.",
-    "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuDf96Kwy4yba-52BLBA1zHZS2xOnN-uzdV4tkZ_2f0OoVHccPJIB8Rl-N1hkgOx1rsnMq2U0aElQlF0H-jEDgFAPq_MYSxlaWArtlHmH6H1XZSNbIC8xpc1e4JE9K7XUqH9YTFopy6z_S6lmmtCAMNc59NSbRoYPzP6Ld3br6AQ8iss7h5Cgo5WEreXegkNzZ647IY_CqHsrqaAXcxK_geZiGbubddowGechBCwFQ8hJqFDDGyl17kQRnsJtJaMkslSuuDPms9r7hQ"
+    "skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "OOP",
+      "DSA",
+      "STMCubeIDE",
+      "STMCubeMX",
+      "C",
+      "HTML",
+      "CSS"
+    ],
+    "description": "1st year completed in B.Tech CS",
+    "profilePicture": "Pranav Singh.jpeg"
+  },
+  {
+    "name": "Swayam Singhai",
+    "industry": "IT",
+    "skills": ["Java", "OOP", "Python", "C", "STMCubeIDE", "STMCubeMX", "MongoDB", "Postman"],
+    "description": "1st year completed in B.Tech CS",
+    "profilePicture": "Swayam Singhai.jpeg"
+  },
+  {
+    "name": "Priyansh Barthwal",
+    "industry": "IT",
+    "skills": [
+      "Java",
+      "OOP",
+      "Python",
+      "C",
+      "STMCubeIDE",
+      "STMCubeMX",
+      "STM Model Zoo",
+      "MongoDB",
+      "Flutter",
+      "Node.js"
+    ],
+    "description": "1st year completed in B.Tech CS",
+    "profilePicture": "Priyansh Barthwal.jpeg"
+  },
+  {
+    "name": "Krish Saxena",
+    "industry": "IT",
+    "skills": ["Java", "C", "IT"],
+    "description": "2nd year completed in B.Tech CS",
+    "profilePicture": "Krish Saxena.jpg"
+  },
+  {
+    "name": "Jayendra Sharma",
+    "industry": "IT",
+    "skills": ["Python", "C", "C++", "Scikit Learn", "OpenCV", "Deep Learning"],
+    "description": "3rd year completed in B.Tech",
+    "profilePicture": "Jayendra Sharma.png"
+  },
+  {
+    "name": "Amishi Mathur",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Amishi Mathur.jpeg"
+  },
+  {
+    "name": "Anirban Biswas",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Anirban Biswas.jpeg"
+  },
+  {
+    "name": "Anshul Mishra",
+    "industry": "Embedded",
+    "skills": [],
+    "description": "1st year completed in B.Tech ECE",
+    "profilePicture": "Anshul Mishra.jpeg"
+  },
+  {
+    "name": "Avik Chaukiyal",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Avik Chaukiyal.jpg"
+  },
+  {
+    "name": "Daksh Bhardwaj",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Daksh Bhardwaj.jpeg"
+  },
+  {
+    "name": "Dushyant Singh",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Dushyant Singh.jpeg"
+  },
+  {
+    "name": "Gurjas Singh",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Gurjas Singh.jpeg"
+  },
+  {
+    "name": "Jyoti Pundir",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Jyoti Pundir.jpeg"
+  },
+  {
+    "name": "Kartik Singla",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Kartik SIngla.jpg"
+  },
+  {
+    "name": "Mehak Talwar",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Mehak Talwar.jpeg"
+  },
+  {
+    "name": "Prachi Mehta",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Prachi_Mehta.jpg"
+  },
+  {
+    "name": "Riya",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "RIYA PHOTO.jpg"
+  },
+  {
+    "name": "Shounak Dasgupta",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Shounak Dasgupta.jpg"
+  },
+  {
+    "name": "Tejas Lamba",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Tejas_Lamba.png"
+  },
+  {
+    "name": "Vardaan Bajpai",
+    "industry": "",
+    "skills": [],
+    "description": "",
+    "profilePicture": "Vardaan bajpai.jpg"
+  },
+  {
+    "name": "Darshil Pawar",
+    "industry": "IT",
+    "skills": ["C", "ChatGPT"],
+    "description": "1st year completed in Diploma in CS (AIDS)"
   }
 ]

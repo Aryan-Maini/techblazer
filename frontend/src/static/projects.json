@@ -1,26 +1,26 @@
 [
   {
-    "title": "STM32 Edge AI Smart Camera",
-    "category": "Embedded",
-    "skills": ["C++", "TinyML", "STM32", "Computer Vision"],
-    "description": "Deploying lightweight convolutional neural networks on STM32 microcontrollers for real-time edge object detection and gesture recognition."
-  },
-  {
-    "title": "Distributed Avionics Telemetry System",
+    "title": "AI Resume Matcher",
     "category": "IT",
-    "skills": ["Go", "Kubernetes", "WebSockets", "AWS"],
-    "description": "Highly-scalable real-time telemetry processing backend built on Go microservices, ingesting thousands of sensor streams concurrently with sub-millisecond latency."
+    "skills": ["Python", "Streamlit", "Hugging Face", "Deep Learning", "NLP"],
+    "description": "Make hiring easy by Screening resumes with AI, Match candidates to job requirements"
   },
   {
-    "title": "IoT Smart Grid Cryptographic Node",
+    "title": "Bionic Hand",
     "category": "Embedded",
-    "skills": ["C", "Mesh Networking", "TrustZone", "Low Power"],
-    "description": "Low-power secure mesh-networking sensor node with hardware-accelerated ARM TrustZone cryptography auditing real-time energy grid values."
+    "skills": ["Stm32CubeIde","Stm32CubeMx","C/C++","Stm32Cubeprogrammer","MemsStudio","TeraTerm/Docklight"],
+    "description": "The project develops a multi-finger bionic hand driven by DC motors and controlled by an STM32L476RGTx microcontroller, integrating flex-sensor-based position feedback, current-based load sensing, and real-time closed loop control."
   },
   {
-    "title": "WebGL Real-time Telemetry Dashboard",
+    "title": "Face Recongition System",
+    "category": "Embedded + IT",
+    "skills": ["CNN", "Data Augmentation", "TensorFlow"],
+    "people": "Priyansh and Shounak"
+  },
+  {
+    "title": "Carpool",
     "category": "IT",
-    "skills": ["React", "WebGL", "Three.js", "UI/UX Design"],
-    "description": "High-performance React dashboard utilizing WebGL for rendering interactive 3D models and real-time streaming avionics visualizers."
+    "skills": ["Flutter","MongoDB","Node.js", "React"],
+    "people": "Priyansh and Swayam"
   }
 ]

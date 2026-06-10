@@ -9,9 +9,9 @@ describe('App', () => {
       global: {
         stubs: {
           RouterLink: RouterLinkStub,
-          RouterView: true
-        }
-      }
+          RouterView: true,
+        },
+      },
     })
     expect(wrapper.text()).toContain('TechBlazers')
   })

@@ -1,0 +1,10 @@
+{
+  "participantsToProjects": {
+    "Aryan Maini": ["AI Resume Matcher"],
+    "Krish Saxena": ["AI Resume Matcher"],
+    "Amaan Ur Rahman": ["Carpool"]
+  },
+  "projectsToParticipants": {
+    "AI Resume Matcher": ["Aryan Maini", "Krish Saxena"]
+  }
+}
